@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sn/gowork/src/github.com/sndnvaps/ups_monitor-go'
+GOARCH=arm64 go build -o ups_monitor
+make: Leaving directory '/home/sn/gowork/src/github.com/sndnvaps/ups_monitor-go'
+ 
